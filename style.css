@@ -21,6 +21,7 @@ body {
 }
 .column-1{
   flex: 0 0 8.333333%;
+  height: 100px;
 }
 .column-2 {
   flex: 0 0 16.66666667%;
